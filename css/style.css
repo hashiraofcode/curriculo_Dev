@@ -59,7 +59,7 @@ iframe {
 }
 
 body {
-	font: 16px Arial, Helvetica, sans-serif;
+	font: 16px "Open Sans";
 	color: #333;
 	line-height: 1;
     background-color: #e2dcdc;
@@ -74,5 +74,54 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 	width: 100%;
+}
+/* decidi começar pelo body para ter uma visualização melhor */
+#personalInformations {
+    background: #62cca7;
+    height: 100vh;
+    width: 40%;
+    padding: 8% 25px 0;
+}
+/* Parte das informações pessoais */
+h1 {
+    font: 700 50px "Open Sans";
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 35%;
+}
+
+#personalInformations h4 {
+    font: 900 30px "Open Sans";
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#personalInformations li{
+    font: 600 20px "Open Sans";
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+#personalInformations li p {
+    margin-left: 10px;
+}
+#email {
+    margin-left: 6px;
+}
+#whatsapp {
+    margin-left: 6px;
+}
+#personalInformations li a {
+    font: normal 20px "Open Sans";
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    text-decoration: none;
+    color: #000000;
+    cursor: pointer;
+    margin-left: 5px;
 }
 
