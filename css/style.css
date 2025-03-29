@@ -164,7 +164,7 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: #9cffdd;
+    background-color: #2eda9e;
     padding: 40px 0;
     border-radius: 20px;
     margin-bottom: 20px;
@@ -178,3 +178,19 @@ h1 {
     padding-right: 30px;
 }
 /* Trasformando o link em um Botão */
+#contentMain p a {
+    font: 500 25px "Open Sans";
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: #2eda9e;
+}
+#contentMain p a:hover {
+    background-color: #3cd49f;
+    transform: translateY(-4px);
+    transition-duration: 0.5s;
+    box-shadow: 3px 4px 8px rgba(0,0,0,0.5);
+}
