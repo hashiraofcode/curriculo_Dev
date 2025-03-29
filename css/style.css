@@ -78,20 +78,22 @@ table {
 /* decidi começar pelo body para ter uma visualização melhor */
 #personalInformations {
     background: #62cca7;
-    height: 100vh;
+    height: auto;
     width: 40%;
     padding: 8% 25px 0;
+    border: 1px solid transparent;
+    margin-right: 30px;
 }
 /* Parte das informações pessoais */
 h1 {
-    font: 700 50px "Open Sans";
+    font: 500 50px "Open Sans";
     text-align: center;
     color: #ffffff;
     margin-bottom: 35%;
 }
 
 #personalInformations h4 {
-    font: 900 30px "Open Sans";
+    font: 700 30px "Open Sans";
     color: #ffffff;
     margin-bottom: 20px;
 }
@@ -124,4 +126,33 @@ h1 {
     cursor: pointer;
     margin-left: 5px;
 }
-
+/* Aqui commeça o conteúdo do curriculo */
+#contentMain h2 strong{
+    font: 600 30px "Open Sans";
+    background-color: #62cca7;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+}
+#contentMain p {
+    font: normal 25px "Open Sans";
+    border: 1px solid transparent;
+    margin: 25px 0;
+    line-height: 150%;
+    color: #000000;
+}
+#contentMain h2 {
+    margin: 20px 0;
+}
+#profissionalTitle {
+    font: 600 30px "Open Sans";
+    margin-top: 15px;
+    color:#383838
+}
+#profissionalPeriod {
+    font: 300 20px "Open Sans";
+    margin-top: 5px;
+}
+#profissionalDiscription {
+    margin: 5px 0 25px 0;
+}
