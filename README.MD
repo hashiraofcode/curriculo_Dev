@@ -13,6 +13,8 @@ ___
 
 ### Imagem 2 📌
 <img src="readmeImages/curricDev2.png">
+
 ---
+
 # **Atenção** ⚠
 A inspiração do Layout foi retirado de uma documento do canva pertencente a escola DNC. Deixo aqui os meu creditos ao autor. E caso queira fazer uso do projeto para melhorar ou adaptar para você, sinta-se a vontade para tal. 
