@@ -152,7 +152,29 @@ h1 {
 #profissionalPeriod {
     font: 300 20px "Open Sans";
     margin-top: 5px;
+    color: #5f5f5f;
 }
-#profissionalDiscription {
+#contentMain #profissionalDiscription {
     margin: 5px 0 25px 0;
 }
+#formacoes strong {
+    font: bold 25px "Open Sans";
+}
+#linIconTable {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #9cffdd;
+    padding: 40px 0;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.linIcons {
+    width: 60px;
+    margin-right: 30px;
+
+}
+#contentMain {
+    padding-right: 30px;
+}
+/* Trasformando o link em um Botão */
