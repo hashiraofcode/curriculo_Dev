@@ -8,10 +8,10 @@ ___
 > O projeto consiste em uma página web que contem minhas informações para contanto e localização atual na esquerda e o desenvolvimento do curriculum em si na direita. O documento contém um resumo, sobre minha carreira acadêmica e atual objetivo profissional, meu objetivo com este curriculo, Minhas experiêcias profissionais que pretendo preecher quando tiver a oportunidade de desenvolver um projeto relevante profissionalmente, um link para o meu portifólio, minhas formações e as linguagens e tecnológias que domino atualmente.
 ---
 ## Imagens do Projeto 📁
-Imagem 1 📌
+### Imagem 1 📌
 <img src="readmeImages/curricDev1.png">
 
-Imagem 2 📌
+### Imagem 2 📌
 <img src="readmeImages/curricDev2.png">
 ---
 # **Atenção** ⚠
